@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360245179036",
+    "project_id": "audio-player-d0f3b",
+    "storage_bucket": "audio-player-d0f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360245179036:android:63142e8f2fbb75a56f7359",
+        "android_client_info": {
+          "package_name": "com.emmanuel_yegon.audioplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpeUVnh1o7zgVpTlpB0tENl3bIBihIjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
