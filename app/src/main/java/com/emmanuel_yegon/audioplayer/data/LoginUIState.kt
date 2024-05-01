@@ -7,5 +7,4 @@ data class LoginUIState(
     var emailError: Boolean = false,
     var passwordError: Boolean = false,
 
-
     )
